@@ -1,0 +1,23 @@
+header,footer{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color:aqua;
+}
+.first{
+    display: flex;
+    justify-content: center;
+
+}
+.second{
+    display: flex;
+    justify-content: center;
+}
+.third{
+    display: flex;
+    justify-content: center;
+}
+.firth{
+    display: flex;
+    justify-content: center;
+}
